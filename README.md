@@ -1,11 +1,4 @@
 <div align="center">
-  <img
-    src="banner.png"
-    alt="Pixel art developer banner"
-    width="100%"
-  />
-</div>
-<div align="center">
 
 # ░▒▓ SAFIN MERCEY V J ▓▒░
 
