@@ -1,146 +1,123 @@
 
-<!--
-    SAFIN.EXE | PIXEL GAME WORLD
-    GitHub Profile README
--->
-
 <div align="center">
 
-# 🎮 SAFIN.EXE
+# ░▒▓ SAFIN MERCEY V J ▓▒░
 
-### `PLAYER ONE HAS ENTERED THE DEVELOPER WORLD`
+### `Computer Science Engineer | Software Developer`
 
-**Computer Science Graduate · Software Developer · Lifelong Learner**
+**Turning ideas into useful software.**
 
-```text
-╔══════════════════════════════════════════════╗
-║              PLAYER PROFILE                 ║
-╠══════════════════════════════════════════════╣
-║  PLAYER : SAFIN MERCEY V J                   ║
-║  CLASS  : SOFTWARE DEVELOPER                 ║
-║  STATUS : BUILDING NEW PROJECTS              ║
-║  MISSION : TURN IDEAS INTO REALITY           ║
-╚══════════════════════════════════════════════╝
-```
-
-[GitHub](https://github.com/Safinmercey) · [LinkedIn](https://www.linkedin.com/in/safin-mercey/)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Code-181717?style=for-the-badge&logo=github)](https://github.com/Safinmercey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/safin-mercey/)
 
 </div>
 
 ---
 
-## 🕹️ PLAYER INTRODUCTION
+## `01` / WHO AM I?
 
-> Every great developer starts with a single line of code.
+Hey, I'm **Safin**, a Computer Science and Engineering graduate interested in software development and building practical solutions.
 
-Hey! I'm **Safin Mercey V J**, a Computer Science and Engineering graduate interested in building practical software solutions.
-
-- 🧩 I enjoy solving problems and developing applications.
-- 💻 I work with Java, Python, SQL, and web technologies.
-- ☁️ I'm exploring backend development and cloud computing.
-- 🚀 My goal is to build useful, reliable, and well-designed software.
-
----
-
-## 🗺️ WORLD MAP — MY PROJECTS
-
-### 🟩 QUEST 01: FindIt+
-
-**Mission:** Help users discover relevant opportunities based on their skills, interests, availability, and preferred roles.
-
-- 🎯 Skill-based opportunity matching
-- 🧠 Relevance scoring and recommendations
-- 🌐 Web-based user experience
-
-`PYTHON` `FLASK` `HTML` `CSS` `JAVASCRIPT`
-
-**Status:** In development
+- 💻 Programming with Java and Python
+- 🌐 Developing web applications with Flask
+- 🗄️ Exploring databases and backend systems
+- ☁️ Learning about cloud computing and deployment
+- 🧩 Interested in solving real-world problems through technology
 
 ---
 
-### 🟦 QUEST 02: Cloud-Based Intelligent Crime Reporting and Case Management
+## `02` / SELECTED WORKS
 
-**Mission:** Develop a centralized platform for crime reporting, evidence management, and case tracking.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 📁 Digital crime and case records
-- 🔐 Role-based access and case status tracking
-- 🧠 Natural language processing and intelligent analysis
+### 🔎 FindIt+
 
-`PYTHON` `FIREBASE` `FIRESTORE` `OPENCV` `JAVASCRIPT`
+A platform designed to match users with relevant opportunities based on skills, interests, availability, and preferred roles.
 
-**Status:** Academic project
+**Built with**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-222222?style=flat-square&logo=flask)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-### 🟪 QUEST 03: StockFlow — Inventory Management
+`WEB APPLICATION`
 
-**Mission:** Simplify inventory and sales operations for wholesale and distribution businesses.
+</td>
+<td width="50%" valign="top">
 
-- 📦 Inventory and order management
-- 👥 Customer and employee management
-- 📊 Sales reports and business insights
+### 🛡️ Crime Management
 
-`FLUTTER` `FIREBASE`
+A cloud-based crime reporting and case management system featuring digital records, evidence management, case tracking, and intelligent analysis.
 
-**Status:** Internship project
+**Built with**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-## ⚔️ SKILL INVENTORY
+`ACADEMIC PROJECT`
 
-| Category | Technologies |
-|---|---|
-| Programming | Java, Python, C |
-| Web | HTML, CSS, JavaScript |
-| Backend | Flask |
-| Database | SQL, MySQL, Firebase Firestore |
-| Tools | Git, GitHub, VS Code |
-| Cloud | Exploring cloud computing |
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
----
+### 📦 StockFlow — Inventory Management
 
-## 🌱 CURRENT QUEST
+An inventory and distribution management application focused on orders, customer and employee management, and sales reporting.
 
-```text
-[ACTIVE]   Strengthen Java and Python
-[ACTIVE]   Build web applications with Flask
-[ACTIVE]   Practice SQL and database design
-[LOCKED]   Advanced backend engineering
-[LOCKED]   Cloud architecture mastery
-```
+**Built with:** Flutter · Firebase
 
-*Locked quests represent future learning goals, not completed skills.*
+`INTERNSHIP PROJECT`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 ACHIEVEMENT BOARD
-
-- [x] Complete a Computer Science engineering degree
-- [x] Gain application development experience
-- [x] Build academic software projects
-- [ ] Publish and document more projects
-- [ ] Deploy a complete web application
-
----
-
-## 🤝 JOIN MY NETWORK
-
-Interested in software development, backend engineering, or cloud technologies?
-
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/safin-mercey/)
-- 🐙 GitHub: [Explore my repositories](https://github.com/Safinmercey)
+## `03` / TECH STACK
 
 <div align="center">
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-333333?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## `04` / CURRENTLY BUILDING
+
 ```text
-=====================================
-  GAME STATUS : CONTINUE BUILDING
-  NEXT LEVEL  : BETTER SOFTWARE
-=====================================
+> Improving problem-solving skills
+> Developing Python + Flask applications
+> Practicing Java and SQL
+> Exploring backend development
+> Learning cloud technologies
 ```
 
-**Thanks for visiting my world! ⭐**
+---
 
-`PRESS START TO EXPLORE MY PROJECTS`
+## `05` / THE NEXT LEVEL
+
+I believe in learning by building, improving through practice, and creating software that solves meaningful problems.
+
+<div align="center">
+
+### LET'S BUILD SOMETHING USEFUL.
+
+[GitHub](https://github.com/Safinmercey) · [LinkedIn](https://www.linkedin.com/in/safin-mercey/)
+
+<sub>Designed with curiosity. Built with code. Always learning.</sub>
 
 </div>
