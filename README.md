@@ -1,99 +1,110 @@
 
 <div align="center">
 
-# Hi, I'm Safin Mercey V J 👋
+# ░▒▓ SAFIN MERCEY V J ▓▒░
 
-### Computer Science Graduate | Aspiring Software Developer
+### `Computer Science Engineer | Software Developer`
 
-I enjoy learning how things work, solving problems, and turning ideas into useful applications.
+**Turning ideas into useful software.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-My_Projects-557568?style=flat-square&logo=github&logoColor=white)](https://github.com/Safinmercey)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-7895B2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safin-mercey/)
-
-</div>
-
----
-
-## A little about me 🌿
-
-I'm a Computer Science and Engineering graduate who enjoys exploring new technologies and building projects that solve real problems.
-
-- 💻 I enjoy programming and developing applications.
-- 🌱 I'm currently improving my skills in Java, Python, and databases.
-- 🧩 I like learning by experimenting and building things myself.
-- ☁️ I'm also interested in backend development and cloud computing.
-
-I believe there's always something new to learn, and every project is a chance to get better.
-
----
-
-## Things I've worked on 💡
-
-### 🔎 FindIt+ — Opportunity Finder
-
-An idea I'm developing to help people discover opportunities that match their skills, interests, availability, and preferred roles.
-
-The goal is to make finding relevant opportunities simpler and more personal.
-
-**Technologies:** Python, HTML, CSS, JavaScript
-
-[Explore my repositories →](https://github.com/Safinmercey)
-
-### 🛡️ Cloud-Based Intelligent Crime Reporting and Case Management
-
-An academic project focused on making crime reporting and case management more organized through a digital platform.
-
-It brings together crime records, evidence management, case tracking, and intelligent analysis in one system.
-
-**Technologies:** Python, Firebase, Firestore, OpenCV, HTML, CSS, JavaScript
-
-[Explore my repositories →](https://github.com/Safinmercey)
-
----
-
-## Technologies I work with 🛠️
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-D98B55?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-7895B2?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-7D91B0?style=flat-square&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-C97B63?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-7895B2?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-D6B85A?style=flat-square&logo=javascript&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-6F9AA8?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-CB9B59?style=flat-square&logo=firebase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-C97B63?style=flat-square&logo=git&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Code-181717?style=for-the-badge&logo=github)](https://github.com/Safinmercey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/safin-mercey/)
 
 </div>
 
 ---
 
-## What I'm learning 📚
+## `01` / WHO AM I?
 
-- Strengthening my Java and Python fundamentals
-- Building better web applications
-- Improving my understanding of SQL and databases
-- Exploring cloud technologies and software development practices
+Hey, I'm **Safin**, a Computer Science and Engineering graduate interested in software development and building practical solutions.
+
+- 💻 Programming with Java and Python
+- 🌐 Developing web applications
+- 🗄️ Exploring databases and backend systems
+- ☁️ Learning about cloud computing and deployment
+- 🧩 Interested in solving real-world problems through technology
+
+---
+
+## `02` / SELECTED WORKS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔎 FindIt+
+
+A platform designed to match users with relevant opportunities based on skills, interests, availability, and preferred roles.
+
+**Built with**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+`WEB APPLICATION`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Crime Management
+
+A cloud-based crime reporting and case management system featuring digital records, evidence management, case tracking, and intelligent analysis.
+
+**Built with**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+`ACADEMIC PROJECT`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Outside the code ☕
-
-I enjoy reading, discovering new ideas, and learning things that help me grow both personally and professionally.
-
-For me, becoming a better developer isn't just about writing code. It's also about being curious, staying consistent, and being willing to learn from mistakes.
-
----
+## `03` / TECH STACK
 
 <div align="center">
 
-### Thanks for stopping by! 🌼
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-I'm always happy to connect with people who enjoy technology, learning, and building meaningful things.
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## `04` / CURRENTLY BUILDING
+
+```text
+> Improving problem-solving skills
+> Developing Python applications
+> Practicing Java and SQL
+> Exploring backend development
+> Learning cloud technologies
+```
+
+---
+
+## `05` / A LITTLE ABOUT ME
+
+I believe in learning by building, improving through practice, and creating software that solves meaningful problems.
+
+<div align="center">
+
+### LET'S BUILD SOMETHING USEFUL.
 
 [GitHub](https://github.com/Safinmercey) · [LinkedIn](https://www.linkedin.com/in/safin-mercey/)
 
-*Learning a little, building a little, growing every day.*
+<sub>Designed with curiosity. Built with code. Always learning.</sub>
 
 </div>
